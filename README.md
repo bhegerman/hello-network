@@ -1,4 +1,4 @@
-# hello-network
+# Hello-Network
 
 Just another repository geared towards networking and cyber security.
 
