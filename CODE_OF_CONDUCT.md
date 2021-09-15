@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+I will keep this repository publicly accessible so that others can reference it, and hopefully learn something new. Please keep this in mind when posting to the repository. Avoid posting identifiable material without permission from the user. Posting identifiable material without permission may result in a temporary ban.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
